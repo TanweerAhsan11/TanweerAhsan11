@@ -1,4 +1,4 @@
-[![MasterHead](https://r4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-98166d48d0b05c7890bc81be8892b48a.jpg)]
+![MasterHead](https://r4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-98166d48d0b05c7890bc81be8892b48a.jpg)
 <h1 align="center">Hi 👋, I'm Tanweer Ahsan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
