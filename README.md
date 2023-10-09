@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanweerahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanweerahsan" height="30" width="40" /></a>
-<a href="https://instagram.com/tanweerahsan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanweerahsan11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanweerahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanweerahsan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanweerahsan" target="blank"><img align="center" src="https://www.linkedin.com/in/tanweer-ahsan-79b0b1222/" alt="tanweerahsan" height="30" width="40" /></a>
+<a href="https://instagram.com/tanweerahsan11" target="blank"><img align="center" src="https://www.instagram.com/tanweerahsan11/" alt="tanweerahsan11" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanweerahsan" target="blank"><img align="center" src="https://www.hackerrank.com/hasantanveer624" alt="tanweerahsan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
